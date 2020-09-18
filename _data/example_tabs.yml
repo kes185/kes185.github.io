@@ -3,7 +3,7 @@ style: is-boxed
 size: is-medium
 items:
   - name: Tabs
-    link: /page-4/
+    link: /page/page1
     icon: fa-check
   - name: Sidebar
     link: /page-1/
