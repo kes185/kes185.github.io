@@ -2,7 +2,6 @@
 title: Bulma Clean Theme
 subtitle: This is the demo site for Bulma Clean Theme
 layout: page
-callouts: home_callouts
 hide_hero: true
 show_sidebar: false
 menubar: example_menu
