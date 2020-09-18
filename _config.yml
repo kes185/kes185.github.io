@@ -1,5 +1,9 @@
+title: Progress.
 remote_theme: chrisrhymes/bulma-clean-theme
-timezone: Asia/Seoul
+email: eunsukim@yonsei.ac.kr
+#baseurl: "/bulma-clean-theme"
+#url: "https://www.csrhymes.com"
+
 permalink: pretty
 
 plugins:
