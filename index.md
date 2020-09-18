@@ -3,7 +3,9 @@ title: Bulma Clean Theme
 subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 callouts: home_callouts
-show_sidebar: true
+hide_hero: true
+show_sidebar: false
+menubar: example_menu
 ---
 
 # Bulma Clean Theme demo website
