@@ -1,5 +1,19 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 timezone: Asia/Seoul
+permalink: pretty
+
+plugins:
+  - github-pages
+  - jekyll-paginate
+  - kramdown
+  - rouge
+
+livereload: true
+sass:
+  style: compressed
+  source_dir: _sass
+
+
 
 defaults:
   -
@@ -7,6 +21,10 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+      author: "KES185"
       hide_hero: true
       show_sidebar: false
       menubar: example_menu
+      
+markdown: kramdown
+highlighter: rouge
