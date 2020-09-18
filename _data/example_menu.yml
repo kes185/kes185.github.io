@@ -1,6 +1,6 @@
 - label: Example Menu
   items:
-    - name: 페이지
+    - name: 페이지?
       link: /
     - name: Pages
       link: #
