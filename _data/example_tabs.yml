@@ -1,6 +1,6 @@
-alignment: is-left
-style: is-boxed
-size: is-large
+alignment: is-centered
+# style: is-boxed
+size: is-small
 items:
   - name: Tabs
     link: /page-4/
