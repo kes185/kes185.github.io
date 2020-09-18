@@ -16,7 +16,7 @@ This website showcases the options for the Bulma Clean theme. The theme is avail
 
 The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
 
-## GitHub Pages
+## GitHub
 
 The theme can be used with GitHub Pages bu setting the `remote_theme` in your Jekyll sites `_config.yml`
 
