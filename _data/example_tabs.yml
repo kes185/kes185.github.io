@@ -1,16 +1,16 @@
 alignment: is-centered
-style: is-boxed
-size: is-medium
+#style: is-boxed
+size: is-small
 items:
-  - name: Tabs
+  - name: 1. 1차(30개)
     link: /page/page1
     icon: fa-check
-  - name: Sidebar
+  - name: 2. 2차(5/30개)
     link: /page-1/
     icon: fa-check
-  - name: No Sidebar
+  - name: 3. 3차(3335/30개)
     link: /page-2/
     icon: fa-check
-  - name: Menubar
+  - name: 4. 4442차(5/30개)
     link: /page-3/
     icon: fa-check
