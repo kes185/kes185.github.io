@@ -1,9 +1,10 @@
 title: "Progress:"
+tagline: KES185
 remote_theme: chrisrhymes/bulma-clean-theme
 email: eunsukim@yonsei.ac.kr
 url: "https://kes185.github.io"
 #baseurl: "/bulma-clean-theme"
-
+favicon: /path/to/favicon.png
 
 permalink: pretty
 
