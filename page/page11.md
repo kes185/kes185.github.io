@@ -21,7 +21,7 @@ menubar: example_menu
 ```
 
 
-<div id="ldavis_example"></div>
+#<div id="ldavis_example"></div>
 
 
 You will probably want to disable the show_sidebar otherwise there will be little room for the page's content. 
