@@ -1,8 +1,9 @@
-title: Progress:
+title: "Progress:"
 remote_theme: chrisrhymes/bulma-clean-theme
 email: eunsukim@yonsei.ac.kr
+url: "https://kes185.github.io"
 #baseurl: "/bulma-clean-theme"
-#url: "https://kes185.github.io"
+
 
 permalink: pretty
 
