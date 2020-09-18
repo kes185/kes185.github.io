@@ -1,5 +1,5 @@
 alignment: is-centered
-# style: is-boxed
+style: is-boxed
 size: is-small
 items:
   - name: Tabs
