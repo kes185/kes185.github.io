@@ -1,16 +1,16 @@
 alignment: is-centered
 style: is-boxed
-size: is-small
+size: is-medium
 items:
   - name: Tabs
     link: /page-4/
-    icon: fa-smile-wink
+    icon: fa-check
   - name: Sidebar
     link: /page-1/
-    icon: fa-square
+    icon: fa-check
   - name: No Sidebar
     link: /page-2/
-    icon: fa-ellipsis-v
+    icon: fa-check
   - name: Menubar
     link: /page-3/
-    icon: fa-bars
+    icon: fa-check
