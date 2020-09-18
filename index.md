@@ -5,7 +5,7 @@ layout: page
 menubar: false
 ---
 
-# Bulma Clean Theme demo website
+# Bulma Clean Them website
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
