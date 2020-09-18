@@ -3,6 +3,7 @@ title: Page with menubar
 subtitle: Demo page with a menubar
 layout: page
 show_sidebar: false
+tabs: example_tabs
 ---
 
 This is another sample page showing how a page can look with a menubar. 
