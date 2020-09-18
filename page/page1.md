@@ -20,6 +20,10 @@ show_sidebar: false
 menubar: example_menu
 ```
 
+
+<div id="ldavis_example"></div>
+
+
 You will probably want to disable the show_sidebar otherwise there will be little room for the page's content. 
 
 ## Creating a menubar data file
@@ -67,3 +71,11 @@ You may make multiple menus in the same file, separated by the label
     - name: Another example item
       link: /another-example-item/
 ```
+
+
+
+<script type="text/javascript">
+      $(document).ready(function(){
+         $("#ldavis_example").load("https://raw.githubusercontent.com/lovit/lovit.github.io/master/assets/resources/pyldavis.html")
+      });
+</script>
