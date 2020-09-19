@@ -16,6 +16,9 @@ plugins:
   - kramdown
   - rouge
 
+include: 
+  - _pages
+  
 exclude: 
 
 
