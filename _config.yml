@@ -29,7 +29,12 @@ sass:
   source_dir: _sass
 paginate: 5
 paginate_path: "/blog/page:num"
-
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 defaults:
   -
