@@ -58,7 +58,7 @@ defaults:
       author: "kes185"
       layout: post
       show_sidebar: false
-      #menubar: example_menu
+      menubar: example_menu
       hide_footer: true
       
 markdown: kramdown
