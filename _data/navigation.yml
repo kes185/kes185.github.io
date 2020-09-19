@@ -1,12 +1,12 @@
 - name: Topic Modeling
-  link: /page/
+  link: /_page/
   dropdown: 
     - name: Fairness
       link: /LDA_Visualization.html
     - name: Teacher
-      link: /page/page1
+      link: /_page/page1
 - name: Blog
-  link: /blog/
+  link: /_post/
   dropdown: 
     - name: Page 2
       link: /page-2/
