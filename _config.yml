@@ -37,7 +37,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-      author: "KES185"
+      author: "kes185"
       hide_hero: true
       show_sidebar: false
       #menubar: example_menu
@@ -55,7 +55,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "kes185"
       layout: post
       show_sidebar: false
       #menubar: example_menu
