@@ -6,7 +6,5 @@
     - name: Teacher
       link: /_page/page1
 - name: Blog
-  link: /_post/
-  dropdown: 
-    - name: Page 2
-      link: /page-2/
+  link: /blog/
+
