@@ -1,10 +1,10 @@
 - name: Topic Modeling
-  link: /_page/
+  link: /pages/
   dropdown: 
     - name: Fairness
       link: /blog/page1
     - name: Teacher
-      link: /_page/page1
+      link: /pages/page1
 - name: Blog
-  link: /post/
+  link: /posts/
 
