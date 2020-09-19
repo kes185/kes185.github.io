@@ -2,7 +2,7 @@
 title: 공정성 첫번째 결과
 category: topic modeling
 tag: topic modeling, text mining
-type: post
+layout: post
 ---
 
 # 토픽모델링 결과 공유

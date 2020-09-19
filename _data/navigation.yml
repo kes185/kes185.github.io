@@ -2,7 +2,7 @@
   link: /_page/
   dropdown: 
     - name: Fairness
-      link: /LDA_Visualization.html
+      link: /blog/page1
     - name: Teacher
       link: /_page/page1
 - name: Blog
